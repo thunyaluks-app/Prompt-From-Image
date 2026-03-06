@@ -185,7 +185,7 @@ const App: React.FC = () => {
                                                                                                                                                                                                                                                                                 </div>
         <h1 className="text-3xl font-extrabold text-indigo-700 text-center mb-4 uppercase tracking-wider">
           Prompt From Image
-<p className="text-sm font-bold text-gray-500 mt-2 tracking-widest">thunyaluks</p>
+<p className="text-sm font-bold text-gray-500 mt-2 tracking-widest">ts</p>
         </h1>
 
         {/* Text Reasoning Model Selection */}
